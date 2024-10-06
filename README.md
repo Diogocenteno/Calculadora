@@ -16,7 +16,7 @@ Como Executar
 Clone o repositório:
 bash
 Copiar código
-git clone(https://github.com/Diogocenteno/Calculadora)
+git clone(https://github.com/Diogocenteno/Calculadora/blob/main/calculadora.py.ipynb)
 Navegue até o diretório do projeto:
 bash
 Copiar código
