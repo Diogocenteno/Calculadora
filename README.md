@@ -16,7 +16,7 @@ Como Executar
 Clone o repositório:
 bash
 Copiar código
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone(https://github.com/Diogocenteno/Calculadora)
 Navegue até o diretório do projeto:
 bash
 Copiar código
